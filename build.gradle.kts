@@ -6,7 +6,7 @@ plugins {
 }
 
 application {
-    mainClassName = "demo.EnvVarKt"
+    mainClassName = "com.github.IanLondon.demo.EnvVarKt"
 }
 
 version = "1.0-SNAPSHOT"

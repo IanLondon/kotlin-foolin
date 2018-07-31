@@ -1,4 +1,4 @@
-package demo
+package com.github.IanLondon.demo
 
 import java.io.File
 import java.io.BufferedReader
