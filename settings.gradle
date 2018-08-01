@@ -1,2 +1,4 @@
-rootProject.name = 'kotlin-tests'
+rootProject.buildFileName = 'build.gradle.kts'
+rootProject.name = 'kotlin-foolin'
+
 
